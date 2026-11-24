@@ -1,0 +1,4 @@
+id,title,description,price,city,neighbourhood,property_type,bedrooms,bathrooms,area_sqft,lat,lon,agent_id,amenities
+EX-1,Sunny 2BR house in Riverside,Bright renovated house with garden,525000,Austin,Riverside,house,2,2,1400,30.25,-97.72,agent-1,garden;parking
+EX-2,Modern condo Downtown,Open-plan condo with gym access,410000,Seattle,Downtown,condo,2,1,950,47.61,-122.33,agent-2,gym;doorman
+EX-3,Cozy studio near University,Compact studio ideal for students,185000,Denver,University,studio,0,1,420,39.74,-104.99,agent-1,laundry
